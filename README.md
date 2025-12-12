@@ -93,15 +93,15 @@ SWITCH(
 ```
 FUTURE_DS_01/
 │
-├── README.md
-├── DS_01.pbix
 ├── datasets/
-│   ├── datasets.zip
-└── images/
-    └── DS 1_1.png
-    └── DS 1_2.png
-    └── DS 1_3.png
-    └── DS 1_4.png
+│ └── datasets.zip
+├── images/
+│ ├── DS 1_1.png
+│ ├── DS 1_2.png
+│ ├── DS 1_3.png
+│ └── DS 1_4.png
+├── DS_01.pbix
+├── README.md
 ```
 ---
 ### **📦 Dataset Extraction Instructions**
